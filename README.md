@@ -1,7 +1,7 @@
 ### Hi I'm Marco 👋
 
 - I'm Marco Wiedemeyer from Hamburg, Germany.
-- I'm a Senior Software Engineer working with 🌥 Azure, Microsoft 365 and web technologies.
+- I'm a Senior Cloud Engineer and Architect working with 🌥 Azure, Microsoft 365 and web technologies.
 - ✍ You can find my blog [here at blog.mwiedemeyer.de](https://blog.mwiedemeyer.de)
 
 ### Connect
